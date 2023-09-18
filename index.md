@@ -1,5 +1,7 @@
 Aquí tienes un temario para desarrollar una mentalidad de aprendizaje:
 
+![DuncanJetson.png](DuncanJetson.png)
+
 **Tema 1: Ser un estudiante de por vida**
 
 - Definición de aprendizaje a lo largo de toda la vida.
