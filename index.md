@@ -1,4 +1,4 @@
-Aquí tienes un temario para desarrollar una mentalidad de aprendizaje:
+# Desarrolla una mentalidad de aprendizaje
 
 **Tema 1: Ser un estudiante de por vida**
 
